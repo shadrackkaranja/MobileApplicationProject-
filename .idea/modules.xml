@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarcodeAndQRReaderAndroid.iml" filepath="$PROJECT_DIR$/BarcodeAndQRReaderAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Medicine Authenticator App-app.iml" filepath="$PROJECT_DIR$/app/Medicine Authenticator App-app.iml" group="Medicine Authenticator App/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Medicine_Authenticator_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Medicine_Authenticator_App.iml" group="Medicine_Authenticator_App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
